@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="yes"?>
+<tt xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tt_feature="http://www.w3.org/ns/ttml/feature/" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:tt_extension="http://www.w3.org/ns/ttml/extension/" xmlns:tt_profile="http://www.w3.org/ns/ttml/profile/" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ry="http://namespace.itunes.apple.com/itt/ttml-extension#ruby" xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ttp:frameRate="30" ttp:frameRateMultiplier="1000 0001" xml:lang="en" ttp:dropMode="nonDrop" ttp:timeBase="smpte">
+    <head>
+        <ttp:profile>
+            <ttp:extensions xml:base="http://namespace.itunes.apple.com/itt/ttml-extension/">
+                <ttp:extension>#ruby</ttp:extension>
+                <ttp:extension>#vertical</ttp:extension>
+            </ttp:extensions>
+        </ttp:profile>
+        <styling>
+            <style tts:fontFamily="sansSerif" tts:color="white" tts:fontStyle="normal" tts:fontSize="100%" xml:id="normal" tts:fontWeight="normal"></style>
+        </styling>
+        <layout>
+            <region tts:displayAlign="before" tts:extent="100% 15%" tts:textAlign="center" xml:id="top" tts:origin="0% 0%"></region>
+            <region tts:displayAlign="after" tts:extent="100% 15%" tts:textAlign="center" xml:id="bottom" tts:origin="0% 85%"></region>
+            <region tts:extent="15% 100%" tts:writingMode="tbrl" tts:textAlign="start" xml:id="right" tts:origin="85% 0%"></region>
+            <region tts:extent="15% 100%" tts:writingMode="tbrl" tts:textAlign="start" xml:id="left" tts:origin="15% 0%"></region>
+        </layout>
+    </head>
+    <body style="normal" region="bottom">
+        <div>
+            <p begin="00:00:03:12" end="00:00:06:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In this lesson, we're going to<br></br>
+                    be talking about Apple Events. And</span>
+            </p>
+            <p begin="00:00:06:06" end="00:00:10:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">one of the most important aspects<br></br>
+                    of Apple Events is the new M3 chip.</span>
+            </p>
+            <p begin="00:00:10:01" end="00:00:13:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">When users go to render video or use<br></br>
+                    an application like Invedio's AI</span>
+            </p>
+            <p begin="00:00:13:20" end="00:00:17:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to make money or other wise, and customers<br></br>
+                    that are happy, users want to be sure</span>
+            </p>
+            <p begin="00:00:17:27" end="00:00:21:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they're using the very best product<br></br>
+                    out on the market. And the</span>
+            </p>
+            <p begin="00:00:21:20" end="00:00:26:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amount of trust that users put in Apple is<br></br>
+                    why we're here. Likewise, businesses need</span>
+            </p>
+            <p begin="00:00:26:19" end="00:00:31:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to invest in their infrastructure and purchase<br></br>
+                    many software applications, they don't</span>
+            </p>
+            <p begin="00:00:31:09" end="00:00:35:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">just want to be able to have their business run<br></br>
+                    They want it to run better than anyone else. Apple</span>
+            </p>
+            <p begin="00:00:35:24" end="00:00:40:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">takes that into consideration when designing<br></br>
+                    everything and that creates new values.</span>
+            </p>
+            <p begin="00:00:40:25" end="00:00:44:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Value is everything to the Apple design<br></br>
+                    It is a part of the apple experience.</span>
+            </p>
+            <p begin="00:00:44:12" end="00:00:48:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">So, what makes Apple's M3<br></br>
+                    the best?</span>
+            </p>
+            <p begin="00:00:48:21" end="00:00:53:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the M3 chip is Apple's newest most<br></br>
+                    powerful piece of silicone ever</span>
+            </p>
+            <p begin="00:00:53:16" end="00:01:00:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It performs better than any other<br></br>
+                    leading chip on the market and it</span>
+            </p>
+            <p begin="00:01:00:24" end="00:01:06:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">earns its right as the fastest. It's<br></br>
+                    no longer dependent on external factors</span>
+            </p>
+            <p begin="00:01:06:25" end="00:01:11:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but is dependent upon the rate at<br></br>
+                    which Apple innovates</span>
+            </p>
+            <p begin="00:01:11:15" end="00:01:17:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and it's capable of rendering video<br></br>
+                    creations using CAD and other 3D softwares.</span>
+            </p>
+            <p begin="00:01:17:27" end="00:01:22:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">unlike anything we've seen before<br></br>
+                    no matter the complexity in design</span>
+            </p>
+            <p begin="00:01:22:24" end="00:01:28:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The M3 chip is the future of creativity<br></br>
+                    and makes Apple the leader in production</span>
+            </p>
+            <p begin="00:01:28:07" end="00:01:32:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Apple is also proud to announce<br></br>
+                    it has partnered with Austin Witt</span>
+            </p>
+            <p begin="00:01:32:18" end="00:01:37:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is a leader in innovative localization<br></br>
+                    tactics and capable of multiple workflows</span>
+            </p>
+            <p begin="00:01:37:09" end="00:01:41:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">much like that of the new M3 chip.<br></br>
+                    He can render, edit, time, and QC captions</span>
+            </p>
+            <p begin="00:01:41:15" end="00:01:46:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is familiar with diverse work environments<br></br>
+                    and has a basic understanding of ASL as well</span>
+            </p>
+        </div>
+    </body>
+</tt>

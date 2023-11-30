@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:textAlign="center" xml:id="style0"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" xml:id="region0"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+    <p xml:id="p1" begin="34000000t" end="61770000t" region="bottomCenter">In this lesson, we&#039;re going to<br/>be talking about Apple Events. And</p>
+    <p xml:id="p2" begin="61770000t" end="100090000t" region="bottomCenter">one of the most important aspects<br/>of Apple Events is the new M3 chip.</p>
+    <p xml:id="p3" begin="100090000t" end="136550000t" region="bottomCenter">When users go to render video or use<br/>an application like Invedio&#039;s AI</p>
+    <p xml:id="p4" begin="136550000t" end="177200000t" region="bottomCenter">to make money or other wise, and customers<br/>that are happy, users want to be sure</p>
+    <p xml:id="p5" begin="179000000t" end="214800000t" region="bottomCenter">they&#039;re using the very best product<br/>out on the market. And the</p>
+    <p xml:id="p6" begin="216600000t" end="264400000t" region="bottomCenter">amount of trust that users put in Apple is<br/>why we&#039;re here. Likewise, businesses need</p>
+    <p xml:id="p7" begin="266200000t" end="312200000t" region="bottomCenter">to invest in their infrastructure and purchase<br/>many software applications, they don&#039;t</p>
+    <p xml:id="p8" begin="313000000t" end="358000000t" region="bottomCenter">just want to be able to have their business run<br/>They want it to run better than anyone else. Apple</p>
+    <p xml:id="p9" begin="358000000t" end="408220000t" region="bottomCenter">takes that into consideration when designing<br/>everything and that creates new values.</p>
+    <p xml:id="p10" begin="408220000t" end="444000000t" region="bottomCenter">Value is everything to the Apple design<br/>It is a part of the apple experience.</p>
+    <p xml:id="p11" begin="444000000t" end="487000000t" region="bottomCenter">So, what makes Apple&#039;s M3<br/>the best?</p>
+    <p xml:id="p12" begin="487000000t" end="533300000t" region="bottomCenter">the M3 chip is Apple&#039;s newest most<br/>powerful piece of silicone ever</p>
+    <p xml:id="p13" begin="535100000t" end="607200000t" region="bottomCenter">It performs better than any other<br/>leading chip on the market and it</p>
+    <p xml:id="p14" begin="608000000t" end="666400000t" region="bottomCenter">earns its right as the fastest. It&#039;s<br/>no longer dependent on external factors</p>
+    <p xml:id="p15" begin="668200000t" end="713000000t" region="bottomCenter">but is dependent upon the rate at<br/>which Apple innovates</p>
+    <p xml:id="p16" begin="714800000t" end="778980000t" region="bottomCenter">and it&#039;s capable of rendering video<br/>creations using CAD and other 3D softwares.</p>
+    <p xml:id="p17" begin="778980000t" end="827300000t" region="bottomCenter">unlike anything we&#039;ve seen before<br/>no matter the complexity in design</p>
+    <p xml:id="p18" begin="828000000t" end="880400000t" region="bottomCenter">The M3 chip is the future of creativity<br/>and makes Apple the leader in production</p>
+    <p xml:id="p19" begin="882200000t" end="924200000t" region="bottomCenter">Apple is also proud to announce<br/>it has partnered with Austin Witt</p>
+    <p xml:id="p20" begin="926000000t" end="972790000t" region="bottomCenter">He is a leader in innovative localization<br/>tactics and capable of multiple workflows</p>
+    <p xml:id="p21" begin="972790000t" end="1014800000t" region="bottomCenter">much like that of the new M3 chip.<br/>He can render, edit, time, and QC captions</p>
+    <p xml:id="p22" begin="1014800000t" end="1068600000t" region="bottomCenter">He is familiar with diverse work environments<br/>and has a basic understanding of ASL as well</p>
+    <p xml:id="p23" begin="1068600000t" end="1099700000t" region="bottomCenter">as several years of Spanish and a<br/>degree in film and political science.</p>
+  </div>
+  </body>
+</tt>

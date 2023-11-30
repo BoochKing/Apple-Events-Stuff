@@ -1,0 +1,54 @@
+<SAMI>
+<HEAD>
+<TITLE>file</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtitles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start=3400><P Class=ENUSCC>In this lesson, we're going to<br>be talking about Apple Events. And</P></SYNC>
+<SYNC Start=6177><P Class=ENUSCC>one of the most important aspects<br>of Apple Events is the new M3 chip.</P></SYNC>
+<SYNC Start=10009><P Class=ENUSCC>When users go to render video or use<br>an application like Invedio's AI</P></SYNC>
+<SYNC Start=13655><P Class=ENUSCC>to make money or other wise, and customers<br>that are happy, users want to be sure</P></SYNC>
+<SYNC Start=17720><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=17900><P Class=ENUSCC>they're using the very best product<br>out on the market. And the</P></SYNC>
+<SYNC Start=21480><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=21660><P Class=ENUSCC>amount of trust that users put in Apple is<br>why we're here. Likewise, businesses need</P></SYNC>
+<SYNC Start=26440><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=26620><P Class=ENUSCC>to invest in their infrastructure and purchase<br>many software applications, they don't</P></SYNC>
+<SYNC Start=31220><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=31300><P Class=ENUSCC>just want to be able to have their business run<br>They want it to run better than anyone else. Apple</P></SYNC>
+<SYNC Start=35800><P Class=ENUSCC>takes that into consideration when designing<br>everything and that creates new values.</P></SYNC>
+<SYNC Start=40822><P Class=ENUSCC>Value is everything to the Apple design<br>It is a part of the apple experience.</P></SYNC>
+<SYNC Start=44400><P Class=ENUSCC>So, what makes Apple's M3<br>the best?</P></SYNC>
+<SYNC Start=48700><P Class=ENUSCC>the M3 chip is Apple's newest most<br>powerful piece of silicone ever</P></SYNC>
+<SYNC Start=53330><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=53510><P Class=ENUSCC>It performs better than any other<br>leading chip on the market and it</P></SYNC>
+<SYNC Start=60720><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=60800><P Class=ENUSCC>earns its right as the fastest. It's<br>no longer dependent on external factors</P></SYNC>
+<SYNC Start=66640><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=66820><P Class=ENUSCC>but is dependent upon the rate at<br>which Apple innovates</P></SYNC>
+<SYNC Start=71300><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=71480><P Class=ENUSCC>and it's capable of rendering video<br>creations using CAD and other 3D softwares.</P></SYNC>
+<SYNC Start=77898><P Class=ENUSCC>unlike anything we've seen before<br>no matter the complexity in design</P></SYNC>
+<SYNC Start=82730><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=82800><P Class=ENUSCC>The M3 chip is the future of creativity<br>and makes Apple the leader in production</P></SYNC>
+<SYNC Start=88040><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=88220><P Class=ENUSCC>Apple is also proud to announce<br>it has partnered with Austin Witt</P></SYNC>
+<SYNC Start=92420><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=92600><P Class=ENUSCC>He is a leader in innovative localization<br>tactics and capable of multiple workflows</P></SYNC>
+<SYNC Start=97279><P Class=ENUSCC>much like that of the new M3 chip.<br>He can render, edit, time, and QC captions</P></SYNC>
+<SYNC Start=101480><P Class=ENUSCC>He is familiar with diverse work environments<br>and has a basic understanding of ASL as well</P></SYNC>
+<SYNC Start=106860><P Class=ENUSCC>as several years of Spanish and a<br>degree in film and political science.</P></SYNC>
+<SYNC Start=109970><P Class=ENUSCC>&nbsp;</P></SYNC>
+</BODY>
+</SAMI>
